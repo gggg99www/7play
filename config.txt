@@ -1,5 +1,5 @@
 token=NTEzMDY5Njk1ODcyNTMyNDk5.DtCpgg.W86MY07AVALI4mqyJK0_HyAWfYM
-owner=ا499982945088569344
+owner=499982945088569344
 prefix= 7
 game= 7play
 stayinchannel=true
